@@ -2,4 +2,5 @@ function sayHello (name){
   console.log(`Hello, ${name}`)
 }
 
-module.exports = sayHello
+export default sayHello;
+
